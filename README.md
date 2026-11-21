@@ -1,13 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2b2d42,100:7a8450&text=Jesus%20Tello&fontColor=e8e6d9&fontSize=42&fontAlignY=38&desc=Mechatronics%20%C2%B7%20Game%20dev%20%C2%B7%20Drones&descAlignY=60&descSize=16" width="100%" alt="header" />
 
 <div align="center">
-
-### Hello there, I'm Jesus 
-**Mechatronics Engineering** student @ UNAB 🇨🇴 · Game developer · ES / EN
-
 </div>
 
----
 
 ### What I like to do
 I like to make fun and useful things and video games, but above all I love turning ideas into something tangible.
@@ -25,7 +20,7 @@ I like to make fun and useful things and video games, but above all I love turni
 - Computer vision with MediaPipe and OpenCV
 - Robotics and electronics for my own builds
 - Self-hosting with Docker on a Raspberry Pi
-- French 🇫🇷 and German 🇩🇪
+- French 🇫🇷 
 
 ### Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
