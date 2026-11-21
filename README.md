@@ -1,15 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2b2d42,100:7a8450&text=Jesus%20Tello&fontColor=e8e6d9&fontSize=42&fontAlignY=38&desc=Mechatronics%20%C2%B7%20Game%20dev%20%C2%B7%20Drones&descAlignY=60&descSize=16" width="100%" alt="header" />
 
-<div align="center">
-</div>
-
-
 ### What I like to do
-I like to make fun and useful things and video games, but above all I love turning ideas into something tangible.
-
-- Drones and robots that react to people
-- Games you control with your body, not just a keyboard
+- Drones and robots
 - Designing parts and assemblies in SOLIDWORKS (CSWA certified)
+ - Exploring all the possibilities I have at hand to improve
 
 ### Currently building
 - A drone-based portable physiotherapy lab
@@ -20,7 +14,7 @@ I like to make fun and useful things and video games, but above all I love turni
 - Computer vision with MediaPipe and OpenCV
 - Robotics and electronics for my own builds
 - Self-hosting with Docker on a Raspberry Pi
-- French 🇫🇷 
+- German 🇩🇪
 
 ### Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,9 +27,9 @@ I like to make fun and useful things and video games, but above all I love turni
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Fun facts
-- I love cats 
-- I'm into JRPGs, and my favorite game of all time is Persona 5 
-- I play the piano 
+- I love cats
+- I'm into JRPGs, and my favorite game of all time is Persona 5
+- I play the piano
 
 ### How to reach me
 Want to talk drones, games, or build something together? Reach out:
