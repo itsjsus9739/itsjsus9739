@@ -7,7 +7,6 @@
 
 ### Currently building
 - A drone-based portable physiotherapy lab
-- A horror game, music included
 
 ### What I'm learning
 - PID control and state machines for drones
