@@ -31,7 +31,7 @@
 - I play the piano
 
 ### How to reach me
-Want to talk drones, games, or build something together? Reach out:
+Want to talk about sci-fi stuff or build something together? Reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-francisco-tello-manzano-1930aa380/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusftellom@gmail.com)
